@@ -1,6 +1,6 @@
 {
   "name": "web-creator",
-  "version": "1.0.0",
+  "version": "16.x",
   "scripts": {
     "dev": "node scripts/build.mjs",
     "build": "node scripts/build.mjs --production"
